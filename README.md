@@ -1,9 +1,9 @@
 <!-- STREAMING_CHUNK:Configurando encabezado principal con banner, typing SVG y badges de estado -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9BF0,100:0B486B&height=220&section=header&text=%C2%A1Hola,%20soy%20Camilo!%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Banner Superior"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9BF0,100:0B486B&height=220&section=header&text=%C2%A1Hola,%20soy%20CamiloLis%20%&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Banner Superior"/>
 
   <a href="https://github.com/camilolis12">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2E9BF0&center=true&vCenter=true&width=700&lines=%F0%9F%8E%93+Ingenier%C3%ADa+de+Sistemas+%7C+9.%C2%BA+Semestre+UPC;%E2%9A%99%EF%B8%8F+Backend+%26+Full+Stack+Developer+%7C+Java+%2B+Spring+Boot;%F0%9F%A4%96+Cloud%2C+DevOps+%26+IA+Aplicada+(LLMs+Locales);%F0%9F%92%BC+Disponible+para+Pr%C3%A1cticas+Empresariales" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2E9BF0&center=true&vCenter=true&width=700&lines=%F0%9F%8E%93+Ingenier%C3%ADa+de+Sistemas+%7C+UPC;Backend+%26+Full+Stack+Developer+%7C+Java+%2B+Spring+Boot" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/Semestre-9.º_Senior-2E9BF0?style=for-the-badge&labelColor=0B486B&logo=mortarboard&logoColor=white" alt="Semestre"/>
     <img src="https://img.shields.io/badge/Enfoque-Backend_%7C_Full_Stack-2E9BF0?style=for-the-badge&labelColor=0B486B&logo=spring&logoColor=white" alt="Enfoque"/>
     <img src="https://img.shields.io/badge/Stack-Java_%26_Spring_Boot-2E9BF0?style=for-the-badge&labelColor=0B486B&logo=openjdk&logoColor=white" alt="Stack"/>
-    <img src="https://img.shields.io/badge/Estado-Pr%C3%A1cticas_Empresariales-22c55e?style=for-the-badge&labelColor=0B486B&logo=checkmarx&logoColor=white" alt="Disponibilidad"/>
   </p>
 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9BF0,100:0B486B&height=3" width="100%"/>
