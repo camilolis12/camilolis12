@@ -9,7 +9,7 @@
   <br/><br/>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Semestre-9.º_Senior-2E9BF0?style=for-the-badge&labelColor=0B486B&logo=mortarboard&logoColor=white" alt="Semestre"/>
+    <img src="https://img.shields.io/badge/Semestre-9.º-2E9BF0?style=for-the-badge&labelColor=0B486B&logo=mortarboard&logoColor=white" alt="Semestre"/>
     <img src="https://img.shields.io/badge/Enfoque-Backend_%7C_Full_Stack-2E9BF0?style=for-the-badge&labelColor=0B486B&logo=spring&logoColor=white" alt="Enfoque"/>
     <img src="https://img.shields.io/badge/Stack-Java_%26_Spring_Boot-2E9BF0?style=for-the-badge&labelColor=0B486B&logo=openjdk&logoColor=white" alt="Stack"/>
   </p>
@@ -116,7 +116,7 @@ desarrollador:
 
 ### 📬 Contacto & Conexión
 
-¿Interesado en mi perfil para prácticas empresariales, desarrollo backend o proyectos de software? Puedes contactarme a través de:
+¿Interesado en mi perfil para desarrollo backend o proyectos de software? Puedes contactarme a través de:
 
 <p align="center">
   <a href="mailto:camilobarlis@gmail.com">
